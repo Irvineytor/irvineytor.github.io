@@ -3,7 +3,7 @@ title: Presentacion y Bienvenida
 published: true
 ---
 
-Bienvenido a mi pagina de writeups! Por aqui estare publicando guias sobre como resuelvo maquinas en plataformas como Hack the Box, Vulnhub, ejercicios de programacion.
+Bienvenido a mi pagina de writeups! Por aqui estare publicando guias sobre como resuelvo maquinas en plataformas como Hack the Box, Vulnhub, al igual que ejercicios de programacion y en general un poco de lo que vaya aprendiendo por el camino con el fin de compartir y reforzar conocimientos sobre temas del ambito de la tecnologia.
 
 Para contactarme, puedes contar con mis redes sociales: 
 
