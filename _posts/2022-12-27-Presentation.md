@@ -3,7 +3,7 @@ title: Presentacion y Bienvenida
 published: true
 ---
 
-Bienvenido a mi pagina de writeups! Por aqui estare publicando guias sobre como resuelvo maquinas en plataformas como Hack the Box.
+Bienvenido a mi pagina de writeups! Por aqui estare publicando guias sobre como resuelvo maquinas en plataformas como Hack the Box, Vulnhub, ejercicios de programacion.
 
 Para contactarme, puedes contar con mis redes sociales: 
 
@@ -25,7 +25,7 @@ Te aseguro que estare al pendiente de ellas para cualquier tema.
 
 # [](#header-1)Un poco sobre mi.
 
-Me he apasionado tomando como "hobby" el aprendizaje en diversos temas de la tecnologia, actualmente estoy realizando cursos acerca de la programacion en Python3, HTML5, CSS, MySQL, y algun flamework de Python3.
+Me he apasionado tomando como "hobbie" el aprendizaje en diversos temas de la tecnologia, actualmente estoy realizando cursos acerca de la programacion en Python3, HTML5, CSS, MySQL, y algun framework de Python3.
 Adicional a esto, como estaremos mirando en esta pagina, me encuentro explorando el campo de la ciberseguridad del lado del RED TEAM de modo autodidacta, apoyado mucho de dibulgadores como @S4vitar y @Contandobits
 
 Las plataformas en las que suelo seguir mi formacion "autodicacta" son:
@@ -34,7 +34,7 @@ Las plataformas en las que suelo seguir mi formacion "autodicacta" son:
 
 * [Mastermind.ac](https://www.mastermind.ac).
 
-Tambien me gusta reforzar mirando streaming en platadormas como [Twitch.tv](https://www.twitch.tv). Estos son algunos canales en espesifico en donde me gusta estar un rato cuando me encuentro practicando a parte o solo quiero pasar un rato de oscio:
+Tambien me gusta reforzar mirando streaming en plataformas como [Twitch.tv](https://www.twitch.tv). Estos son algunos canales en especifico en donde me gusta estar un rato cuando me encuentro practicando a parte o solo quiero pasar un rato de oscio:
 
 * @S4vitar [Twitch.tv/s4vitar](https://www.twitch.tv/s4vitaar).
 * @NateGentile [Twitch.tv/nategentile7](https://www.twitch.tv/nategentile7).
@@ -52,7 +52,7 @@ A dia de hoy tengo 2 años empleando mi labor actual, esta es mi principal ocupa
 
 ### Ocupaciones secundarias/hobbies:
 
-Me siento afortunado de estar llevando poco a poco las cosas que me gustan/interesan o mis hobbies como tal, en fuentes de ingresos ocacionales o medianamente concurrentes, esto me ha permitido ademas de tener un ingreso extra, poder desempeñar habilidades o conocimientos que adquiero en forma de oscio y ponerlos en practica en hambientes reales, conocer gente del o de los hambitos, distraerme un poco y salir de la rutina de una manera que no deje de ser productiva.
+Me siento afortunado de estar llevando poco a poco las cosas que me gustan/interesan o mis hobbies como tal, en fuentes de ingresos ocacionales o medianamente concurrentes, esto me ha permitido ademas de tener un ingreso extra, poder desempeñar habilidades o conocimientos que adquiero en forma de oscio y ponerlos en practica en hambientes reales, conocer gente del o de los ambitos, distraerme un poco y salir de la rutina de una manera que no deje de ser productiva.
 
 # [](#header-4) Algunos de estos hobbies son:
 
