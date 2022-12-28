@@ -3,7 +3,7 @@ title: Que es Hack the Box? (HTB)
 published: true
 ---
 
-![](https://miro.medium.com/max/768/0*-GfTVaLBRBhA1SAZ.png)
+![](assets/What-is-HTB/HTB-top-banner.png)
 
 
 Bienvenido a mi primer post!
