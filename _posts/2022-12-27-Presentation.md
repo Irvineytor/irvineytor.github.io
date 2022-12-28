@@ -3,9 +3,16 @@ title: Presentacion y Bienvenida
 published: true
 ---
 
-Bienvenido a mi pagina de writeups! Por aqui estare publicando guias sobre como resuelvo maquinas en plataformas como Hack the Box, Vulnhub, al igual que ejercicios de programacion y en general un poco de lo que vaya aprendiendo por el camino con el fin de compartir y reforzar conocimientos sobre temas del ambito de la tecnologia.
+Bienvenido a mi pagina/blog, estoy feliz por comenzar e con el fin de compartir y reforzar conocimientos sobre temas del ambito de la tecnologia.ste proyecto que tiene varios propositos de por medio, entre ellos esta el reforzar lo que vaya aprendiendo atraves de tratar de explicarlo y documentarlo en esta pagina, a la vez que el contenido pueda ayudar a que la gente interesada en aprender algo nuevo o repasar algun tema le pueda ser de utilidad este blog.
 
-Para contactarme, puedes contar con mis redes sociales: 
+
+Por aqui estare publicando guias sobre como resuelvo maquinas en plataformas como Hack the Box, Vulnhub, al igual que ejercicios de programacion y en general un poco de lo que vaya aprendiendo por el camino.
+
+
+
+Espero que este proyecto pueda ayudar a alguien en algun momento, siempre que haya dudas o sugerencias dejo mis contactos por aqui abajo y como primera toma de contacto estare dejando un poco sobre mi a modo de CV.
+
+Para contactarme, te dejo algunas mis redes sociales: 
 
 * [Github](https://www.github.com/irvineytor).
 
